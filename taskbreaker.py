@@ -2,7 +2,7 @@ from openai import ChatCompletion
 import openai
 
 # Directly setting the OpenAI API key
-OPENAI_API_KEY = "sk-8mPZt9WkHhWW-lAcwZ5c5powm21A38XoOWNQQVezd-T3BlbkFJ5xaGNSBiifV4vECACuvB2vHd66ZsCEkSVDKBzh6ukA"
+OPENAI_API_KEY = "<YOUR_KEY>"
 openai.api_key = OPENAI_API_KEY
 
 class AgentHead():
