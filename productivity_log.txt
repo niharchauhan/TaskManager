@@ -1,0 +1,145 @@
+Task: Practice
+Start Time: 2024-10-27 10:07:43.002937
+End Time: 2024-10-27 10:08:15.253089
+File Path: No file selected
+Task: Practice
+Start Time: 2024-10-27 11:09:58.080098
+End Time: 2024-10-27 11:10:01.378479
+File Path: No file selected
+Task: Just a task
+Start Time: 2024-10-27 11:10:18.059173
+End Time: 2024-10-27 11:10:23.033762
+File Path: No file selected
+Task: freking
+Start Time: 2024-10-27 11:10:25
+End Time: 2024-10-27 11:16:49.262615
+File Path: No file selected
+Task: Practice
+Start Time: 2024-10-27 11:17:31.799308
+End Time: 2024-10-27 11:17:35.366875
+File Path: No file selected
+Task: Just a task
+Start Time: 2024-10-27 11:17:39.830030
+End Time: 2024-10-27 11:17:43.966231
+File Path: No file selected
+Task: freking
+Start Time: 2024-10-27 11:17:49.008905
+End Time: 2024-10-27 11:17:55.824146
+File Path: No file selected
+Task: yrytry
+Start Time: 2024-10-27 11:17:59.821005
+End Time: 2024-10-27 11:18:02.840339
+File Path: No file selected
+Task: ABCDFG
+Start Time: 2024-10-27 11:18:05.974023
+End Time: 2024-10-27 11:18:07.825165
+File Path: No file selected
+Task: abcd
+Start Time: 2024-10-27 11:18:10.553824
+End Time: 2024-10-27 11:18:11.498005
+File Path: No file selected
+Task: freking
+Start Time: 2024-10-27 11:10:25
+End Time: 2024-10-27 11:19:32.739899
+File Path: No file selected
+Task: Practice
+Start Time: 2024-10-27 11:19:50.553205
+End Time: 2024-10-27 11:19:51.780275
+File Path: No file selected
+Task: Just a task
+Start Time: 2024-10-27 11:19:54.439636
+End Time: 2024-10-27 11:19:55.390088
+File Path: No file selected
+Task: freking
+Start Time: 2024-10-27 11:19:56.802268
+End Time: 2024-10-27 11:19:57.423780
+File Path: No file selected
+Task: yrytry
+Start Time: 2024-10-27 11:19:57.795787
+End Time: 2024-10-27 11:19:58.218670
+File Path: No file selected
+Task: ABCDFG
+Start Time: 2024-10-27 11:19:58.537689
+End Time: 2024-10-27 11:19:58.863175
+File Path: No file selected
+Task: abcd
+Start Time: 2024-10-27 11:19:59.181666
+End Time: 2024-10-27 11:19:59.491673
+File Path: No file selected
+Task: freking
+Start Time: 2024-10-27 11:10:25
+End Time: 2024-10-27 11:21:37.083772
+File Path: No file selected
+Task: freking
+Start Time: 2024-10-27 11:10:25
+End Time: 2024-10-27 11:22:20.554747
+File Path: No file selected
+Task: Practice
+Start Time: 2024-10-27 11:22:20.557747
+End Time: 2024-10-27 11:22:23.533547
+File Path: No file selected
+Task: Just a task
+Start Time: 2024-10-27 11:22:23.535549
+End Time: 2024-10-27 11:22:25.240320
+File Path: No file selected
+Task: yrytry
+Start Time: 2024-10-27 11:22:25.242321
+End Time: 2024-10-27 11:22:25.916615
+File Path: No file selected
+Task: ABCDFG
+Start Time: 2024-10-27 11:22:25.918673
+End Time: 2024-10-27 11:22:26.300873
+File Path: No file selected
+Task: abcd
+Start Time: 2024-10-27 11:22:26.301873
+End Time: 2024-10-27 11:22:26.467483
+File Path: No file selected
+Task: ggfd
+Start Time: 2024-10-27 11:22:26.469491
+End Time: 2024-10-27 11:22:26.634649
+File Path: No file selected
+Task: GHHHY
+Start Time: 2024-10-27 11:22:26.636648
+End Time: 2024-10-27 11:22:26.799230
+File Path: No file selected
+Task: Hiiyu
+Start Time: 2024-10-27 11:22:26.800244
+End Time: 2024-10-27 11:22:26.957907
+File Path: No file selected
+Task: Niio
+Start Time: 2024-10-27 11:22:26.958912
+End Time: 2024-10-27 11:22:27.116139
+File Path: No file selected
+Task: New task
+Start Time: 2024-10-27 11:22:27.118650
+End Time: 2024-10-27 11:22:27.276798
+File Path: No file selected
+Task: Play sports
+Start Time: 2024-10-27 11:22:27.277797
+End Time: 2024-10-27 11:22:27.670009
+File Path: No file selected
+Username: ayesha
+Task: freking
+Start Time: 2024-10-27 11:10:25
+End Time: 2024-10-28 15:50:34.125757
+File Path: No file selected
+Username: ayesha
+Task: Complete Chapter 5 of Modern Physics
+Start Time: 2024-10-28 22:55:00
+End Time: 2024-11-22 17:24:19.016028
+File Path: No file selected
+Username: ayesha
+Task: www
+Start Time: 2024-11-22 17:24:19.021082
+End Time: 2024-11-22 17:24:25.776084
+File Path: No file selected
+Username: nihar
+Task: Complete Chapter 5 of Modern Physics
+Start Time: 2024-10-28 22:55:06
+End Time: 2024-11-23 14:30:05.709405
+File Path: No file selected
+Username: nihar
+Task: Practice
+Start Time: 2024-11-23 14:30:05
+End Time: 2024-11-23 14:51:41.822591
+File Path: No file selected
